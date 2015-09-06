@@ -11,8 +11,8 @@ import UIKit
 import Foundation
 
 struct Balloon {
-    var balloonImage:UIImage
-    var balloonNumber:Int
+    var balloonImage = UIImage(named: "")
+    var balloonNumber = 0
     
     
 
